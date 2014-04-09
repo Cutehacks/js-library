@@ -7166,7 +7166,7 @@ module.exports=h:"undefined"!=typeof window&&(window.sift=h)})();
        * @default
        * @type {integer}
        */
-      size: 5 * 1024 * 1024,
+      size: 5 * 1000 * 1000,
 
       /**
        * Opens a database.

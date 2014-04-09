@@ -7186,7 +7186,7 @@ var exports=exports||this;exports.Google=function(){function e(){var e=this,t=th
        * @default
        * @type {integer}
        */
-      size: 5 * 1024 * 1024,
+      size: 5 * 1000 * 1000,
 
       /**
        * Opens a database.
